@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib FloorShort.mtl
+g default
+v 4.000000 0.000000 -0.000001
+v -0.000001 0.000000 -0.000001
+v 4.000000 0.000000 1.000000
+v -0.000001 0.000000 1.000000
+vt 0.002915 0.002915
+vt 0.996126 0.002915
+vt 0.002915 0.251218
+vt 0.996126 0.251218
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+s off
+g FloorShort
+usemtl initialShadingGroup
+f 4/4/1 3/3/2 1/1/3 2/2/4
